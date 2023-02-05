@@ -1,0 +1,13 @@
+.footer__column-link {
+  display: block;
+  width: fit-content;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+  transition: opacity .4s ease-in-out;
+}
+
+.footer__column-link:hover {
+  cursor: pointer;
+  opacity: 50%;
+}
